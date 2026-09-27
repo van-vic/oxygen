@@ -7,8 +7,8 @@ No divergent hard-fork. This repo is small: version pin + patches + branding + p
 
 ## Oxygen repos
 
-- [oxygen](https://github.com/oxygen-browser/oxygen) — core patches and tooling (this repo)
-- [oxygen-windows](https://github.com/oxygen-browser/oxygen-windows) — Windows packaging and installer
+- [oxygen](https://github.com/van-vic/oxygen) — core patches and tooling (this repo)
+- [oxygen-windows](https://github.com/van-vic/oxygen-windows) — Windows packaging and installer
 - `oxygen-macos` — planned
 - `oxygen-linux` — planned
 
